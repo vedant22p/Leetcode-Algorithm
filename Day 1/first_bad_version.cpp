@@ -1,3 +1,7 @@
+// link to the problem: https://leetcode.com/problems/first-bad-version/
+
+
+// Solution:
 class Solution {
 public:
     int firstBadVersion(int n) {
